@@ -18,7 +18,7 @@ export default function Navbar() {
             Portfolio
           </Link>
           <a
-            href="https://linkedin.com/in/satish-yadav" // Update this
+            href="https://linkedin.com/in/satish-yadav-048a80214" // Update this
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-brand transition"
