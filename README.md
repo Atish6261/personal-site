@@ -1,3 +1,8 @@
+# My Personal Portfolio Site
+
+Deployed with Vercel! 🚀
+
+(rest of the content...)
 # Personal Portfolio & Blog Site
 
 A modern, fast personal portfolio and blog starter built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and **MDX** for content.
