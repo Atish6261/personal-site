@@ -31,7 +31,7 @@ export default function Footer() {
             <ul className="space-y-2 text-gray-600">
               <li>
                 <a
-                  href="https://linkedin.com/in/satish-yadav"
+                  href="https://linkedin.com/in/satish-yadav-048a80214" // Update this
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-brand transition"
@@ -41,7 +41,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="https://github.com/satish" // Update this
+                  href="https://github.com/Atish6261" // Update this
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-brand transition"
@@ -51,7 +51,7 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="mailto:your-email@example.com"
+                  href="mailto:yadav43satish@gmail.com" // Update this
                   className="hover:text-brand transition"
                 >
                   Email
