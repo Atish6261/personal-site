@@ -1,3 +1,4 @@
+import ThemeToggle from './ThemeToggle';
 import Link from "next/link";
 
 export default function Navbar() {
@@ -25,6 +26,7 @@ export default function Navbar() {
           >
             LinkedIn
           </a>
+          <ThemeToggle />
         </div>
       </div>
     </nav>
